@@ -1,5 +1,3 @@
-/* this program was by Rustam
- * who went to Moscow */
 #include <SPI.h>//library  
 #include <nRF24L01.h>//library  
 #include <RF24.h>//library  
