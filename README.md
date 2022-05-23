@@ -7,4 +7,5 @@ We also use it to save the code and synchronize with each other
 # :gb: DOCUMENTATION
 
 # :ru: ДОКУМЕНТАЦИЯ
-НАЗВАНИЕ ФАЙЛОВ
+НАЗВАНИЕ ПАПОК
+[USER]
