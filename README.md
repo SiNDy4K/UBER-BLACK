@@ -1,7 +1,7 @@
-# DESCRIPTION :en:
+# DESCRIPTION :eng:
 
 # ОПИСАНИЕ :ru:
 
-# DOCUMENTATION :en:
+# DOCUMENTATION :eng:
  
 # ДОКУМЕНТАЦИЯ :ru:
