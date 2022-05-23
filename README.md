@@ -1,7 +1,4 @@
-# DESCRIPTION :gb:
-
-# ОПИСАНИЕ :ru:
-
-# DOCUMENTATION :gb:
- 
-# ДОКУМЕНТАЦИЯ :ru:
+# :gb: DESCRIPTION 
+# :ru: ОПИСАНИЕ
+# :gb: DOCUMENTATION
+# :ru: ДОКУМЕНТАЦИЯ
