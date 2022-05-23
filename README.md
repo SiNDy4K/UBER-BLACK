@@ -5,7 +5,6 @@ We also use it to save the code and synchronize with each other
 Этот репозиторий сделан для тех кто собирает или собирается собрать робота футболиста. 
 Ещё мы его используем чтобы сохранять код и синхронизировать между собой
 # :gb: DOCUMENTATION
-СКОРО
+SOON
 # :ru: ДОКУМЕНТАЦИЯ
 СКОРО
-https://robofinist.ru/files/event/bid/robot/image/111980/filename/hsfhsdfhsdfhsdfhsdfh.png
