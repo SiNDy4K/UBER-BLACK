@@ -27,7 +27,7 @@ void loop(){ //basic
      Serial.println(data[0]);//print in com-port: x
      Serial.println(data[1]);//print in com-port: y
      Serial.println(data[2]);//print in com-port: button
-     analogWrite(6, 70 );// 0/255 !!!_ATTENTION_!!!, do not
+     analogWrite(6, 20 );// 0/255 !!!_ATTENTION_!!!, do not
      if(data[2]==0)digitalWrite(6, 1); //set more then 90 - there is a danger of OVERHEATING
      motion(data[0], data[1]); //DON'T TOUCH IT
     }
